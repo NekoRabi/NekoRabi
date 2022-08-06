@@ -1,5 +1,10 @@
-### Hi there 👋
+### Good morning, good afternoon, and good evening
 
+I'm learning Python and Svelte.
+
+As a student, my docs and code may be not good.
+
+I am willing to accept suggestions and take the initiative to solve them.
 <!--
 **NekoRabi/NekoRabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
