@@ -1,10 +1,12 @@
 ### Good morning, good afternoon, and good evening
 
-I'm learning Python and Svelte.
+🌱 I’m currently learning Python,Vue and Svelte.
 
 As a student, my docs and code may be not good.
 
 I am willing to accept suggestions and take the initiative to solve them.
+
+大四  求职考研考公ing  忙  欢迎加入一起开发
 <!--
 **NekoRabi/NekoRabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
