@@ -2,11 +2,12 @@
 
 🌱 I’m currently learning Python,Vue and Svelte.
 
-As a student, my docs and code may be not good.
-
+~~As a student, my docs and code may be not good.~~
+上班了，从事与计算机无关的工作，但仍有一个coding的心
 I am willing to accept suggestions and take the initiative to solve them.
 
-做完毕设再搞开发了
+*我永远喜欢拉克丝*
+
 <!--
 **NekoRabi/NekoRabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
